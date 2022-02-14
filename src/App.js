@@ -18,6 +18,7 @@ function App() {
           Learn React
         </a>
       </header>
+      <h2>This is a simple header 2 file</h2>
     </div>
   );
 }
